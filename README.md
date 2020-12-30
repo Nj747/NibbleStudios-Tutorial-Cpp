@@ -1,6 +1,6 @@
 # Curso Game Dev en C++
 
-Repositorio que los archivos cpp implementados en cada uno de los videos del Tutorial.
+Repositorio que contiene los archivos .cpp implementados en cada uno de los videos del Tutorial.
 
 ✅ Canal de Youtube [Nibble Studios] 
 
